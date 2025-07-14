@@ -1,34 +1,46 @@
-# Resume Maker
 
-A Flutter application that helps users create professional resumes with ease.
 
-## Features
+## 📄 Resume Maker App
 
-- Create and edit multiple resumes
-- Professional templates
-- Export to PDF
-- Dark/Light theme support
-- Offline support
+### 🚀 Built by [Aditya Bhuran](https://adityabhuran.netlify.app)
 
-## Installation
+A sleek, cross-platform **Resume Maker app** built using **Flutter & Dart**. This app allows users to create professional resumes easily with customizable templates and export options.
 
-1. Clone the repository:
+---
+
+### ✨ Features
+
+✅ Create, edit, and manage multiple resumes
+✅ Choose from modern, clean templates
+✅ Export resumes as PDF
+✅ Cross-platform: Works on Android, iOS, Web, Windows, macOS, and Linux
+✅ Light & Dark Mode support
+✅ Responsive and intuitive UI
+
+---
+
+### 🛠️ Tech Stack
+
+* **Flutter 3.33**
+* **Dart**
+* Firebase (optional for cloud save)
+* Provider for state management
+
+---
+
+### 📦 Getting Started
+
 ```bash
-git clone https://github.com/chamudithaperera/Flutter-Dart-project-07-Resume_Maker.git
-```
+# Clone the repo
+git clone https://github.com/ADITYABHURAN/Resume-maker.git
 
-2. Navigate to the project directory:
-```bash
-cd Flutter-Dart-project-07-Resume_Maker
-```
+# Navigate into the project folder
+cd Resume-maker
 
-3. Install dependencies:
-```bash
+# Get dependencies
 flutter pub get
-```
 
-4. Run the app:
-```bash
+# Run the app
 flutter run
 ```
 
@@ -62,8 +74,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+### 👨‍💻 About Me
+
+I’m [Aditya Bhuran](https://adityabhuran.netlify.app), a Flutter developer passionate about building cross-platform apps and solving real-world problems with elegant UI.
+
+🌐 [Portfolio](https://adityabhuran.netlify.app) | 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhuran) | 💻 [GitHub](https://github.com/ADITYABHURAN)
+
+---
+
 ## Acknowledgments
 
-- Flutter team for the amazing framework
 - All contributors who have helped improve this project
 
